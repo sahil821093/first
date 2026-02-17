@@ -17,7 +17,13 @@ Here, you will find my initial codes, experiments, and mini-projects that I am b
 ## 📂 What's Inside?
 1. **Basic Logic:** Programs to calculate factorials, patterns, and series.
 2. **Problem Solving:** Solutions to common coding interview questions.
-3. **Mini Projects:** (Coming Soon: Weather App & Task Manager)
+3. **Mini Projects:** Task Manager (✅ Completed!)
+
+## 📸 Project Output
+Here is a preview of the Task Manager in action:
+
+![Task Manager Output](2026..jpg._1.jpg)
+
 
 ## 📫 Connect with Me
 I am always open to feedback and collaboration!
