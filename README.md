@@ -29,5 +29,11 @@ Here is a preview of the Task Manager in action:
 I am always open to feedback and collaboration!
 - **LinkedIn:** [Md Sahil](https://www.linkedin.com/in/md-sahil-1708852a5)
 - **GitHub:** [sahil821093](https://github.com/sahil821093)
+  
 ---
+### 🌤️ Work in Progress: Weather App
+I am currently building a Real-time Weather App. Here is a preview:
+
+![Weather App Preview](weather_preview.jpg)
+
 *⭐ If you find this helpful or want to support my journey, please give this repo a Star!*
