@@ -22,7 +22,7 @@ Here, you will find my initial codes, experiments, and mini-projects that I am b
 ## 📸 Project Output
 Here is a preview of the Task Manager in action:
 
-![Task Manager Output](2026..jpg._2.jpg)
+![Task Manager Output](final.jpg)
 
 
 ## 📫 Connect with Me
