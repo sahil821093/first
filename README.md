@@ -1,39 +1,40 @@
-# 🐍 My Python Learning Journey
+# 🚀 My Python Learning Journey
+Hi! I'm **Md Sahil**, a dedicated BCA Student at **IIBM Patna**. 🎓 This repository documents my hands-on journey as I master Python programming and build logic for software development.
 
-Hi! I'm **Md Sahil**, a BCA Student at **IIBM Patna**. 👋
-This repository documents my journey as I learn **Python Programming** and build logic for software development.
-
-## 🚀 About This Repository
-Here, you will find my initial codes, experiments, and mini-projects that I am building to strengthen my understanding of:
-- Core Python Concepts (Loops, Functions, OOPs)
-- Data Structures & Algorithms
-- Basic Automation Scripts
+---
 
 ## 🛠️ Tech Stack
-- **Language:** Python 3.x
-- **Tools:** VS Code, GitHub
-- **Key Libraries:** (Future plans: Tkinter, Pandas, Requests)
+* **Language:** Python 3.x
+* **Libraries:** Requests (API), Datetime
+* **Tools:** GitHub, Pydroid 3 (Mobile Development)
 
-## 📂 What's Inside?
-1. **Basic Logic:** Programs to calculate factorials, patterns, and series.
-2. **Problem Solving:** Solutions to common coding interview questions.
-3. **Mini Projects:** Task Manager (✅ Completed!)
+---
 
-## 📸 Project Output
-Here is a preview of the Task Manager in action:
+## 🌟 Featured Projects
 
+### 1. 🌤️ Interactive Weather Application
+A real-time application that fetches live satellite data to provide current weather updates.
+* **Key Features:**
+    * Fetches live data from the **Open-Meteo API**.
+    * Supports dynamic user input for city-specific searches (e.g., Patna, Delhi, Mumbai).
+    * Implemented **Error Handling** to manage invalid city names.
+* **Project Preview:**
+![Weather App Output](IMG_20260220_145024.jpg)
+
+### 2. 📝 Smart Task Manager
+A command-line tool designed to help users manage daily activities with priority settings.
+* **Key Features:**
+    * Task prioritization: High (H), Medium (M), and Low (L).
+    * Color-coded status indicators for better visualization.
+* **Project Preview:**
 ![Task Manager Output](final.jpg)
 
-
-## 📫 Connect with Me
-I am always open to feedback and collaboration!
-- **LinkedIn:** [Md Sahil](https://www.linkedin.com/in/md-sahil-1708852a5)
-- **GitHub:** [sahil821093](https://github.com/sahil821093)
-  
 ---
-### 🌤️ Work in Progress: Weather App
-I am currently building a Real-time Weather App. Here is a preview:
 
-![Weather App Preview](IMG.jpg)
+## 📬 Connect with Me
+I'm always open to collaborating on interesting Python projects or discussing tech!
+* **LinkedIn:** [Verified Profile](https://www.linkedin.com/in/md-sahil) 🛡️
+* **GitHub:** [sahil821093](https://github.com/sahil821093)
 
-*⭐ If you find this helpful or want to support my journey, please give this repo a Star!*
+---
+⭐️ *If you find my projects helpful, feel free to give this repo a star!*
