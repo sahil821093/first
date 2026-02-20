@@ -19,7 +19,7 @@ A real-time application that fetches live satellite data to provide current weat
     * Supports dynamic user input for city-specific searches (e.g., Patna, Delhi, Mumbai).
     * Implemented **Error Handling** to manage invalid city names.
 * **Project Preview:**
-![Weather App Output](IMG_20260220_145024.jpg)
+![Weather App Output](IMG.jpg)
 
 ### 2. 📝 Smart Task Manager
 A command-line tool designed to help users manage daily activities with priority settings.
