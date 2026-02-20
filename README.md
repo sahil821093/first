@@ -34,6 +34,6 @@ I am always open to feedback and collaboration!
 ### 🌤️ Work in Progress: Weather App
 I am currently building a Real-time Weather App. Here is a preview:
 
-![Weather App Preview](weather_preview.jpg)
+![Weather App Preview](IMG.jpg)
 
 *⭐ If you find this helpful or want to support my journey, please give this repo a Star!*
