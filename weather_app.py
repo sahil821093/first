@@ -1,37 +1,36 @@
 import requests
-import datetime
 
 def get_weather(city_name, lat, lon):
-    print(f"\n🌍 Connecting to Weather Satellite for {city_name}...")
-    
-    # Ye ASLI API Link hai (Open-Meteo)
     url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current_weather=true"
-    
     try:
         response = requests.get(url)
-        
         if response.status_code == 200:
             data = response.json()
             temp = data['current_weather']['temperature']
-            wind = data['current_weather']['windspeed']
-            time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-            
-            print("✅ Connection Successful!")
-            print(f"--------------------------")
-            print(f"📍 Location: {city_name}")
-            print(f"🌡️ Temperature: {temp}°C")
-            print(f"💨 Wind Speed: {wind} km/h")
-            print(f"🕒 Time: {time}")
-            print(f"--------------------------")
+            print(f"\n✅ Success! {city_name} ka temperature {temp}°C hai.")
         else:
-            print("❌ Error: Satellite data nahi de raha.")
-            
-    except Exception as e:
-        print(f"⚠️ Network Error: {e}")
-        print("   (Check your internet connection)")
+            print("❌ Satellite se data nahi mil raha.")
+    except:
+        print("⚠️ Internet check karein!")
 
-# Main Program
-if __name__ == "__main__":
-    print("--- 🌤️ Sahil's Real-Time Weather App ---")
-    # Patna Location Coordinates
-    get_weather("Patna, Bihar", 25.60, 85.10)
+# 1. Shehron ki list (Coordinates)
+cities = {
+    "patna": (25.60, 85.10),
+    "delhi": (28.61, 77.20),
+    "mumbai": (19.07, 72.87),
+    "bangalore": (12.97, 77.59)
+}
+
+print("--- 🌤️ Sahil's Interactive Weather App ---")
+print("Sheher ke naam: Patna, Delhi, Mumbai, Bangalore")
+
+# 2. User se input lena
+user_choice = input("\nKis sheher ka mausam dekhna hai? ").lower()
+
+# 3. Check karna ki sheher list mein hai ya nahi
+if user_choice in cities:
+    lat, lon = cities[user_choice]
+    get_weather(user_choice.title(), lat, lon)
+else:
+    print(f"❌ Sorry! '{user_choice}' abhi hamari list mein nahi hai.")
+    
