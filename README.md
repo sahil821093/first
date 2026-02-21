@@ -31,6 +31,16 @@ A command-line tool designed to help users manage daily activities with priority
 
 ---
 
+### 3. 📰 Tech News Aggregator
+A real-time Python application that connects to a news server to fetch the latest technology headlines from India.
+* **Key Features:**
+    * Fetches live data using a public **REST API**.
+    * Uses **List Slicing** to display only the top 5 most relevant articles.
+    * Provides direct URLs for each article, ensuring a seamless user experience.
+* **Project Preview:**
+![Tech News Aggregator Output](news_output.jpg)
+
+
 ## 📬 Connect with Me
 I'm always open to collaborating on interesting Python projects or discussing tech!
 * **LinkedIn:** [Verified Profile](https://www.linkedin.com/in/md-sahil) 🛡️
