@@ -41,6 +41,13 @@ A real-time Python application that connects to a news server to fetch the lates
 ![Tech News Aggregator Output](news_output.jpg)
 
 
+### 4. 💰 Personal Expense Tracker
+A file-based Python application for persistent data storage of daily expenses.
+* **Technical Skills:** File I/O (`.txt`), Data Persistence, and While-Loop Logic.
+![Expense Output](expense_output.jpg)
+
+
+
 ## 📬 Connect with Me
 I'm always open to collaborating on interesting Python projects or discussing tech!
 * **LinkedIn:** [Verified Profile](https://www.linkedin.com/in/md-sahil) 🛡️
