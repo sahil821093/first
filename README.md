@@ -52,7 +52,8 @@ A file-based Python application for persistent data storage of daily expenses.
 
 import os
 
-# Ye code aapko batayega ki Python ko storage kahan dikh rahi hai
+# "This diagnostic utility identifies the exact directory path accessible to the Python environment on your device to ensure seamless file operations."
+Ise Sahi Kaise Karein? (Step-by-Step
 root = "/storage/emulated/0/"
 print("--- 🔍 Sahil's Path Finder ---")
 
