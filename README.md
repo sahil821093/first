@@ -54,6 +54,16 @@ A professional automation script that cleans up cluttered directories by sorting
 ![File Organizer Output](organizer_output.jpg)
 
 
+### 6. 🔐 Secure Password Generator
+A robust Python utility designed to generate cryptographically strong and unguessable passwords based on strict security protocols. 
+* **Technical Highlights:**
+    * **Algorithmic Security:** Enforces mandatory inclusion of uppercase, lowercase, numerical, and special characters (`string` module).
+    * **Advanced Randomization:** Utilizes `random.shuffle()` to eliminate predictable sequence patterns, ensuring enterprise-grade password strength.
+    * **Input Validation:** Implements logic to enforce a minimum length requirement and gracefully handles invalid user inputs.
+![Secure Password Output](password_output.jpg)
+
+
+
 
 ## 📬 Connect with Me
 I'm always open to collaborating on interesting Python projects or discussing tech!
