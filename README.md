@@ -48,6 +48,16 @@ A file-based Python application for persistent data storage of daily expenses.
 
 
 
+---
+
+### 5. 📂 Smart File Organizer (Automation)
+An automation script that sorts cluttered folders by moving files into categorized subfolders (Images, Docs, etc.) based on their extensions.
+* **Key Skills:** Automation, `os` and `shutil` libraries, File System Management.
+* **Project Preview:**
+![File Organizer Output](organizer_output.jpg)
+
+
+
 ## 📬 Connect with Me
 I'm always open to collaborating on interesting Python projects or discussing tech!
 * **LinkedIn:** [Verified Profile](https://www.linkedin.com/in/md-sahil) 🛡️
