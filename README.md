@@ -46,26 +46,12 @@ A file-based Python application for persistent data storage of daily expenses.
 * **Technical Skills:** File I/O (`.txt`), Data Persistence, and While-Loop Logic.
 ![Expense Output](expense_output.jpg)
 
-
-
 ---
 
-import os
-
-# "This diagnostic utility identifies the exact directory path accessible to the Python environment on your device to ensure seamless file operations."
-Ise Sahi Kaise Karein? (Step-by-Step
-root = "/storage/emulated/0/"
-print("--- 🔍 Sahil's Path Finder ---")
-
-if os.path.exists(root):
-    print("✅ Storage found! Listing all folders:")
-    # Aapke storage ke saare folders ki list
-    folders = [f for f in os.listdir(root) if os.path.isdir(os.path.join(root, f))]
-    for folder in sorted(folders):
-        print(f"📁 {folder}")
-else:
-    print("❌ Cannot see storage. Permission issue still exists.")
-    
+### 5. 📂 Smart File Organizer (Automation)
+A professional automation script that cleans up cluttered directories by sorting files into categorized folders based on their file extensions. 
+* **Technical Highlights:** Automated file sorting using `os` and `shutil` libraries. Professional error handling and workflow scripting.
+![File Organizer Output](organizer_output.jpg)
 
 
 
