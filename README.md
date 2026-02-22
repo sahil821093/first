@@ -62,7 +62,14 @@ A robust Python utility designed to generate cryptographically strong and ungues
     * **Input Validation:** Implements logic to enforce a minimum length requirement and gracefully handles invalid user inputs.
 ![Secure Password Output](password_output.jpg)
 
+---
 
+### 7. 🗄️ Advanced Expense Tracker (SQL Edition)
+An upgraded financial tracking application utilizing an SQLite database for robust, high-capacity data storage.
+* **Technical Highlights:**
+    * **Database Integration:** Implements `sqlite3` for persistent, structured, and secure data management.
+    * **Automated Data Handling:** Features auto-generating timestamps (`CURRENT_TIMESTAMP`) and professional tabular formatting for records.
+![Advanced Expense Output](advanced_expense_output.jpg)
 
 
 ## 📬 Connect with Me
