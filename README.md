@@ -71,6 +71,19 @@ An upgraded financial tracking application utilizing an SQLite database for robu
     * **Automated Data Handling:** Features auto-generating timestamps (`CURRENT_TIMESTAMP`) and professional tabular formatting for records.
 ![Advanced Expense Output](advanced_expense_output.jpg)
 
+---
+
+### 8. 🏛️ Advanced Library Management (OOP + JSON)
+A professional-grade system showcasing advanced Object-Oriented Programming (OOP) and persistent data handling.
+* **Technical Highlights:**
+    * **State Tracking:** Implemented real-time status updates (Available/Borrowed) for individual book objects.
+    * **Dynamic Storage:** Uses JSON to maintain a permanent database of library records across program restarts.
+    * **Full CRUD Functionality:** Supports adding, searching, borrowing, returning, and deleting entries with professional error handling.
+![Advanced Library Output](library_output.jpg)
+
+---
+
+
 
 ## 📬 Connect with Me
 I'm always open to collaborating on interesting Python projects or discussing tech!
