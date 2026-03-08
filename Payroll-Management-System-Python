@@ -1,0 +1,71 @@
+import csv
+import os
+import logging
+
+# --- Logging Setup (Professional Practice) ---
+logging.basicConfig(filename="system_log.txt", level=logging.INFO, 
+                    format="%(asctime)s - %(levelname)s - %(message)s")
+
+class Employee:
+    def __init__(self, emp_id, name, salary):
+        self.emp_id = emp_id
+        self.name = name
+        self.salary = float(salary)
+
+class PayrollManager:
+    def __init__(self, filename="employees.csv"):
+        self.filename = filename
+        # File check logic
+        if not os.path.exists(self.filename):
+            with open(self.filename, 'w', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(["ID", "Name", "Salary"]) # Header row
+
+    def add_employee(self, emp_id, name, salary):
+        try:
+            with open(self.filename, 'a', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow([emp_id, name, salary])
+            print(f"✅ Employee '{name}' added to Payroll.")
+            logging.info(f"Added Employee: ID {emp_id}, Name {name}")
+        except Exception as e:
+            logging.error(f"Error adding employee: {e}")
+
+    def generate_report(self):
+        print("\n--- 🧾 Professional Payroll Report ---")
+        try:
+            with open(self.filename, 'r') as file:
+                reader = csv.DictReader(file)
+                total_payroll = 0
+                for row in reader:
+                    print(f"ID: {row['ID']} | Name: {row['Name']} | Salary: ₹{row['Salary']}")
+                    total_payroll += float(row['Salary'])
+                print(f"-----------------------------------")
+                print(f"💰 Total Monthly Payout: ₹{total_payroll}")
+                logging.info(f"Report generated. Total payout: ₹{total_payroll}")
+        except Exception as e:
+            print("❌ Error reading data.")
+            logging.error(f"Report error: {e}")
+
+# --- Execution ---
+def main():
+    manager = PayrollManager()
+    while True:
+        print("\n🏛️ IIBM Payroll Management (Project 9)")
+        print("1. Add Employee | 2. View Payroll Report | 3. Exit")
+        choice = input("Select Option: ")
+
+        if choice == '1':
+            id_ = input("Enter Emp ID: ")
+            name = input("Enter Name: ")
+            sal = input("Enter Salary: ")
+            manager.add_employee(id_, name, sal)
+        elif choice == '2':
+            manager.generate_report()
+        elif choice == '3':
+            print("👋 System Closed.")
+            break
+
+if __name__ == "__main__":
+    main()
+
