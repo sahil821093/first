@@ -83,6 +83,18 @@ A professional-grade system showcasing advanced Object-Oriented Programming (OOP
 
 ---
 
+### 9. 💼 Enterprise Payroll Management (CSV & Logging)
+A professional-grade command-line application built to handle employee financial data, demonstrating industry-standard file handling and system monitoring.
+
+* **Technical Highlights:**
+    * **CSV Data Handling:** Integrated Python's native `csv` module to read, write, and append records, ensuring data is easily exportable to Excel for HR/Finance teams.
+    * **System Logging:** Implemented the `logging` module to automatically track system events, successful operations, and errors in a dedicated `system_log.txt` file.
+    * **Fault Tolerance:** Utilized comprehensive `try...except` blocks to prevent application crashes during file I/O operations and ensure continuous execution.
+![Payroll System Output](payroll_output.jpg)
+
+---
+
+
 
 
 ## 📬 Connect with Me
