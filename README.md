@@ -95,6 +95,18 @@ A professional-grade command-line application built to handle employee financial
 ---
 
 
+### 10. 🖥️ Desktop Student Registration Portal (GUI + Database)
+This is my 'Grand Finale' project, marking my transition from Command Line Interfaces (CLI) to Graphical User Interfaces (GUI).
+
+* **Technical Highlights:**
+    * **GUI Development:** Built using Python's `tkinter` library, featuring a custom-designed window, input fields, and event-driven buttons.
+    * **Full-Stack Integration:** Connected the frontend GUI directly to a CSV database, ensuring all registered student data is persistently stored.
+    * **User Experience (UX):** Implemented professional English dialogue boxes and input validation for a seamless user journey.
+![Registration Portal Output](gui_output.jpg)
+
+
+---
+
 
 
 ## 📬 Connect with Me
