@@ -1,0 +1,55 @@
+import tkinter as tk
+from tkinter import messagebox
+import csv
+import os
+
+# --- Backend Logic: Saving to CSV ---
+def save_to_csv(name, course):
+    filename = "student_records.csv"
+    file_exists = os.path.isfile(filename)
+    
+    with open(filename, mode='a', newline='') as file:
+        writer = csv.writer(file)
+        # Agar file nayi hai toh header add karein
+        if not file_exists:
+            writer.writerow(["Student Name", "Course"])
+        writer.writerow([name, course])
+
+# --- Frontend Logic: Button Action ---
+def submit_data():
+    name = name_entry.get()
+    course = course_entry.get()
+    
+    if name == "" or course == "":
+        messagebox.showwarning("Input Error", "Please fill in all the required fields.")
+    else:
+        # 1. Save to Database (Backend)
+        save_to_csv(name, course)
+        
+        # 2. Show Success Message (UI)
+        success_msg = f"Registration Successful!\n\nData has been saved to database.\nStudent: {name}"
+        messagebox.showinfo("Registration Status", success_msg)
+        
+        # 3. Clear Form
+        name_entry.delete(0, tk.END)
+        course_entry.delete(0, tk.END)
+
+# --- GUI Design ---
+root = tk.Tk()
+root.title("IIBM Student Portal")
+root.geometry("400x350")
+root.configure(bg="#E6E6FA")
+
+tk.Label(root, text="IIBM Patna Registration", font=("Helvetica", 18, "bold"), bg="#E6E6FA", fg="#333333").pack(pady=20)
+
+tk.Label(root, text="Enter Full Name:", font=("Arial", 12), bg="#E6E6FA").pack()
+name_entry = tk.Entry(root, font=("Arial", 14), width=20, justify="center")
+name_entry.pack(pady=5)
+
+tk.Label(root, text="Enter Course (e.g., BCA):", font=("Arial", 12), bg="#E6E6FA").pack()
+course_entry = tk.Entry(root, font=("Arial", 14), width=20, justify="center")
+course_entry.pack(pady=5)
+
+tk.Button(root, text="Register Now", font=("Arial", 12, "bold"), bg="#4CAF50", fg="white", command=submit_data).pack(pady=30)
+
+root.mainloop()
