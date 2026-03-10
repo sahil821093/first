@@ -5,9 +5,8 @@
 <h1 align="center">Hi 👋, I'm Md Sahil</h1>
 <h3 align="center">A passionate BCA Student & Software Developer from IIBM Patna 🎓</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Boy Animation" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="Coding Boy Animation" />
+
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently building **Full-Stack Desktop Applications & Enterprise Systems**.
