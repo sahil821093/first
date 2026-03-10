@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Md Sahil</h1>
 <h3 align="center">A passionate BCA Student & Software Developer from IIBM Patna 🎓</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="Coding Boy Animation" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Coding-Gif.gif" width="300" alt="Coding Boy" />
 
 
 
