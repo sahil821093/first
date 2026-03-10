@@ -48,9 +48,6 @@
 * 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/Payroll-Management-System-Python): A professional-grade system with `.txt` logging and `.csv` handling.
 INCREMENT` for IDs and parameterized queries to stop SQL injection.
 
-* **Project Preview:**
-![Database Output](database_output.jpg)
-
 A professional CLI tool built with Python that connects to a real-time SQLite database, moving beyond simple CSV files.
 
 * **Key Features:**
