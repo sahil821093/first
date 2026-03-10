@@ -1,118 +1,49 @@
-# 🚀 My Python Learning Journey
-Hi! I'm **Md Sahil**, a dedicated BCA Student at **IIBM Patna**. 🎓 This repository documents my hands-on journey as I master Python programming and build logic for software development.
+<h1 align="center">Hi 👋, I'm Md Sahil</h1>
+<h3 align="center">A passionate BCA Student & Software Developer from IIBM Patna 🎓</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-sahil-iibm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-## 🛠️ Tech Stack
-* **Language:** Python 3.x
-* **Libraries:** Requests (API), Datetime
-* **Tools:** GitHub, Pydroid 3 (Mobile Development)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+### 👨‍💻 About Me
+- 🔭 I’m currently building **Full-Stack Desktop Applications & Enterprise Systems**.
+- 🌱 I’m currently mastering **Python, SQLite Databases, and GUI Development**.
+- 🏫 Pursuing my BCA at **IIBM Patna** with a focus on real-world logic building.
+- 💬 Ask me about **Python, Tkinter, Data Persistence, and Logic Building**.
+- 📫 How to reach me: **[md-sahil-iibm](https://www.linkedin.com/in/md-sahil-iibm)**
 
-## 🌟 Featured Projects
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
 
-### 1. 🌤️ Interactive Weather Application
-A real-time application that fetches live satellite data to provide current weather updates.
-* **Key Features:**
-    * Fetches live data from the **Open-Meteo API**.
-    * Supports dynamic user input for city-specific searches (e.g., Patna, Delhi, Mumbai).
-    * Implemented **Error Handling** to manage invalid city names.
-* **Project Preview:**
-![Weather App Output](IMG.jpg)
+### 🔥 My Stats (Live)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil821093&show_icons=true&theme=tokyonight" alt="sahil821093 GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil821093&theme=tokyonight" alt="sahil821093 GitHub Streak" />
+</p>
 
-### 2. 📝 Smart Task Manager
-A command-line tool designed to help users manage daily activities with priority settings.
-* **Key Features:**
-    * Task prioritization: High (H), Medium (M), and Low (L).
-    * Color-coded status indicators for better visualization.
-* **Project Preview:**
-![Task Manager Output](final.jpg)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+### 🚀 Featured Projects
+Here are my top projects mapping my journey from basic logic to database-driven GUI applications:
 
-### 3. 📰 Tech News Aggregator
-A real-time Python application that connects to a news server to fetch the latest technology headlines from India.
-* **Key Features:**
-    * Fetches live data using a public **REST API**.
-    * Uses **List Slicing** to display only the top 5 most relevant articles.
-    * Provides direct URLs for each article, ensuring a seamless user experience.
-* **Project Preview:**
-![Tech News Aggregator Output](news_output.jpg)
+* 🖥️ [**Student-Registration-Portal-GUI (Project 10)**](https://github.com/sahil821093/Student-Registration-Portal-GUI): The 'Grand Finale' Full-Stack Desktop App integrating Tkinter and CSV databases.
+* 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/Payroll-Management-System-Python): A professional-grade system with `.txt` logging and `.csv` handling.
+* 🌤️ [**Python Learning Journey (Projects 1-3)**](https://github.com/sahil821093/first): My foundational projects including the *Interactive Weather App*, *Smart Task Manager*, and *Tech News Aggregator*.
 
+<br/>
+<p align="center">
+  <i>⭐️ If you find my projects helpful, feel free to give the repositories a star!</i>
+</p>
 
-### 4. 💰 Personal Expense Tracker
-A file-based Python application for persistent data storage of daily expenses.
-* **Technical Skills:** File I/O (`.txt`), Data Persistence, and While-Loop Logic.
-![Expense Output](expense_output.jpg)
-
----
-
-### 5. 📂 Smart File Organizer (Automation)
-A professional automation script that cleans up cluttered directories by sorting files into categorized folders based on their file extensions. 
-* **Technical Highlights:** Automated file sorting using `os` and `shutil` libraries. Professional error handling and workflow scripting.
-![File Organizer Output](organizer_output.jpg)
-
-
-### 6. 🔐 Secure Password Generator
-A robust Python utility designed to generate cryptographically strong and unguessable passwords based on strict security protocols. 
-* **Technical Highlights:**
-    * **Algorithmic Security:** Enforces mandatory inclusion of uppercase, lowercase, numerical, and special characters (`string` module).
-    * **Advanced Randomization:** Utilizes `random.shuffle()` to eliminate predictable sequence patterns, ensuring enterprise-grade password strength.
-    * **Input Validation:** Implements logic to enforce a minimum length requirement and gracefully handles invalid user inputs.
-![Secure Password Output](password_output.jpg)
-
----
-
-### 7. 🗄️ Advanced Expense Tracker (SQL Edition)
-An upgraded financial tracking application utilizing an SQLite database for robust, high-capacity data storage.
-* **Technical Highlights:**
-    * **Database Integration:** Implements `sqlite3` for persistent, structured, and secure data management.
-    * **Automated Data Handling:** Features auto-generating timestamps (`CURRENT_TIMESTAMP`) and professional tabular formatting for records.
-![Advanced Expense Output](advanced_expense_output.jpg)
-
----
-
-### 8. 🏛️ Advanced Library Management (OOP + JSON)
-A professional-grade system showcasing advanced Object-Oriented Programming (OOP) and persistent data handling.
-* **Technical Highlights:**
-    * **State Tracking:** Implemented real-time status updates (Available/Borrowed) for individual book objects.
-    * **Dynamic Storage:** Uses JSON to maintain a permanent database of library records across program restarts.
-    * **Full CRUD Functionality:** Supports adding, searching, borrowing, returning, and deleting entries with professional error handling.
-![Advanced Library Output](library_output.jpg)
-
----
-
-### 9. 💼 Enterprise Payroll Management (CSV & Logging)
-A professional-grade command-line application built to handle employee financial data, demonstrating industry-standard file handling and system monitoring.
-
-* **Technical Highlights:**
-    * **CSV Data Handling:** Integrated Python's native `csv` module to read, write, and append records, ensuring data is easily exportable to Excel for HR/Finance teams.
-    * **System Logging:** Implemented the `logging` module to automatically track system events, successful operations, and errors in a dedicated `system_log.txt` file.
-    * **Fault Tolerance:** Utilized comprehensive `try...except` blocks to prevent application crashes during file I/O operations and ensure continuous execution.
-![Payroll System Output](payroll_output.jpg)
-
----
-
-
-### 10. 🖥️ Desktop Student Registration Portal (GUI + Database)
-This is my 'Grand Finale' project, marking my transition from Command Line Interfaces (CLI) to Graphical User Interfaces (GUI).
-
-* **Technical Highlights:**
-    * **GUI Development:** Built using Python's `tkinter` library, featuring a custom-designed window, input fields, and event-driven buttons.
-    * **Full-Stack Integration:** Connected the frontend GUI directly to a CSV database, ensuring all registered student data is persistently stored.
-    * **User Experience (UX):** Implemented professional English dialogue boxes and input validation for a seamless user journey.
-![Registration Portal Output](gui_output.jpg)
-
-
----
-
-
-
-## 📬 Connect with Me
-I'm always open to collaborating on interesting Python projects or discussing tech!
-* **LinkedIn:** [Verified Profile](https://www.linkedin.com/in/md-sahil) 🛡️
-* **GitHub:** [sahil821093](https://github.com/sahil821093)
-
----
-⭐️ *If you find my projects helpful, feel free to give this repo a star!*
