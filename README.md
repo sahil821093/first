@@ -47,6 +47,28 @@
 * 🖥️ [**Student-Registration-Portal-GUI (Project 10)**](https://github.com/sahil821093/Student-Registration-Portal-GUI): The 'Grand Finale' Full-Stack Desktop App integrating Tkinter and CSV databases.
 * 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/Payroll-Management-System-Python): A professional-grade system with `.txt` logging and `.csv` handling.
 
+### 11. 🗄️ Enterprise Database Manager (SQLite3)
+
+A professional CLI tool built with Python that connects to a real-time SQLite database, moving beyond simple CSV files.
+
+* **Key Features:**
+    * **Relational Database:** Stores student records permanently in an `iibm_students.db` file.
+    * **CRUD Operations:** Features an interactive menu to Add, View, and Delete records securely.
+    * **Data Integrity:** Uses `AUTOINCREMENT` for IDs and parameterized queries to stop SQL injection.
+
+* **Project Preview:**
+![Database Output](database_output.jpg)
+
+A professional CLI tool built with Python that connects to a real-time SQLite database, moving beyond simple CSV files.
+
+* **Key Features:**
+    * **Relational Database:** Stores student records permanently in an `iibm_students.db` file.
+    * **CRUD Operations:** Features an interactive menu to Add, View, and Delete records securely.
+    * **Data Integrity:** Uses `AUTOINCREMENT` for IDs and parameterized queries to stop SQL injection.
+
+* **Project Preview:**
+![Database Output](database_output.jpg)
+
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/md-sahil-iibm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
