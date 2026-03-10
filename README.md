@@ -44,19 +44,13 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🚀 Featured Projects
+Here are my top projects mapping my journey from basic Python logic to full database-driven applications:
+
+* 🗄️ [**Enterprise Database Manager (Project 11)**](https://github.com/sahil821093/first): A professional CLI tool built with Python featuring a real-time SQLite database and full CRUD operations.
 * 🖥️ [**Student-Registration-Portal-GUI (Project 10)**](https://github.com/sahil821093/Student-Registration-Portal-GUI): The 'Grand Finale' Full-Stack Desktop App integrating Tkinter and CSV databases.
 * 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/Payroll-Management-System-Python): A professional-grade system with `.txt` logging and `.csv` handling.
-INCREMENT` for IDs and parameterized queries to stop SQL injection.
-
-A professional CLI tool built with Python that connects to a real-time SQLite database, moving beyond simple CSV files.
-
-* **Key Features:**
-    * **Relational Database:** Stores student records permanently in an `iibm_students.db` file.
-    * **CRUD Operations:** Features an interactive menu to Add, View, and Delete records securely.
-    * **Data Integrity:** Uses `AUTOINCREMENT` for IDs and parameterized queries to stop SQL injection.
-
-* **Project Preview:**
-![Database Output](database_output.jpg)
+* 🌤️ [**Python Learning Journey (Projects 1-8)**](https://github.com/sahil821093/first): My foundational logic-building projects including the *Interactive Weather App*, *Smart Task Manager*, and *Tech News Aggregator*.
+* 
 
 ### 🤝 Connect with Me
 <p align="center">
