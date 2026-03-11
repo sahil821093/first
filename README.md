@@ -46,6 +46,9 @@
 ### 🚀 Featured Projects
 Here are my top projects mapping my journey from basic Python logic to full database-driven applications:
 
+* 🏆 [**IIBM Smart Student Manager Pro (Project 12)**](https://github.com/sahil821093/first): The ultimate 'Full-Stack' Desktop Application combining a professional Tkinter GUI with a real-time SQLite database, featuring live data tables and full CRUD operations.
+* 
+
 * 🗄️ [**Enterprise Database Manager (Project 11)**](https://github.com/sahil821093/first): A professional CLI tool built with Python featuring a real-time SQLite database and full CRUD operations.
 * 🖥️ [**Student-Registration-Portal-GUI (Project 10)**](https://github.com/sahil821093/first): The 'Grand Finale' Full-Stack Desktop App integrating Tkinter and CSV databases.
 * 💼 [**Enterprise Payroll Management (Project 9)**](https://github.com/sahil821093/first): A professional-grade system with `.txt` logging and `.csv` handling.
