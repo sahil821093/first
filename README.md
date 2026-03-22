@@ -20,6 +20,16 @@
 - 🎨 Passionate about crafting UI logic and expanding my skills in **Editing and Application Design**.
 - 📫 How to reach me: Scroll down to the Connect section!
 
+### 🏆 Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/f2b0aa19-e57f-46b2-9fc2-b38c8971fd1d/public_url">
+    <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification">
+  </a>
+  <b> (94% Score - Top Scorer)</b>
+</p>
+
+
+
 ### 🛠️ My Tech Stack
 **Programming & Databases**
 <p align="left">
