@@ -31,7 +31,6 @@
 
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](certificate-jhhtxjap3y58-1774545678 (2)_1 (1).jpg)
 
-[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](certificate-jhhtxjap3y58-1774545678 (2)_1 (1).jpg)
 
 
 
