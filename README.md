@@ -29,7 +29,7 @@
 </p>
 
 
-[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](https://raw.githubusercontent.com/sahil821093/first/master/claude_cert.jpg)
+[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
 
 
 
