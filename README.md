@@ -29,6 +29,10 @@
 </p>
 
 
+[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](APNE_CERTIFICATE_IMAGE_KA_LINK)
+
+
+
 
 ### 🛠️ My Tech Stack
 **Programming & Databases**
