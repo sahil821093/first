@@ -32,7 +32,11 @@
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
 
 
+### 🏆 Certifications
 
+* [![CISCO](https://img.shields.io/badge/CISCO-Python_Essentials_1-blue?style=flat-square&logo=cisco)](यहीं_सिस्को_का_लिंक_डालें) (94% Score)
+* [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=flat-square&logo=anthropic)](claude_cert.jpg)
+* 
 
 ### 🛠️ My Tech Stack
 **Programming & Databases**
