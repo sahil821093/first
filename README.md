@@ -35,6 +35,10 @@
 
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
 
+<a href="anthropic_cert.jpg"><img src="https://img.shields.io/badge/ANTHROPIC-CLAUDE%20WITH%20THE%20ANTHROPIC%20API-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API Certificate" /></a>
+
+
+
 ### 🛠️ My Tech Stack
 **Programming & Databases**
 <p align="left">
