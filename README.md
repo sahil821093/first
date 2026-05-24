@@ -31,6 +31,9 @@
 
 <a href="cisco_cert.jpg"><img src="https://img.shields.io/badge/CISCO-INTRODUCTION%20TO%20CYBERSECURITY-00bceb?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" /></a>
 
+<a href="linux_cert.jpg"><img src="https://img.shields.io/badge/CISCO-LINUX%20UNHATCHED-00bceb?style=for-the-badge&logo=linux&logoColor=white" alt="Cisco Linux Unhatched Certificate" /></a>
+
+
 
 
 [![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-black?style=for-the-badge&logo=anthropic&logoColor=white)](claude_cert.jpg)
